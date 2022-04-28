@@ -73,9 +73,9 @@
  * a와 b는 서로 1의 유량을 주고 받기 때문에 총 유랑에 영향을 미칠수 없다 
  ![image](https://user-images.githubusercontent.com/101339244/165782544-878714eb-d52a-458b-9e5d-ab5df38a3418.png)
  * 그림 (b)에서 a와 b의 유량은 서로 상쇄 시켜서 없애도 된다.
+![image](https://user-images.githubusercontent.com/101339244/165785562-82af8f47-81ed-44d1-a745-2c8389199363.png)
 
-<img src="https://user-images.githubusercontent.com/101339244/165783262-05383d24-f1a2-45e5-8c67-1365f2680187.png" width="300" height="350"/>
- 
+
   
 
 
